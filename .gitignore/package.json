@@ -1,0 +1,15 @@
+{
+  "name": "tutobot",
+  "version": "1.0.0",
+  "main": "main.js",
+  "dependencies": {
+    "discord.js": "^11.4.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "GhostVeyron410",
+  "license": "ISC",
+  "description": ""
+}
